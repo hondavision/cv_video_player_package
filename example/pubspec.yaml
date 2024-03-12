@@ -42,4 +42,4 @@ dependency_overrides:
   video_player:
     path: ../../video_player
   video_player_platform_interface:
-    path: ../../video_player_platform_interface
+    path: ../packages/video_player_platform_interface
