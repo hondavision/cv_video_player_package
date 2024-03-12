@@ -41,10 +41,10 @@ topics:
 # FOR TESTING ONLY. DO NOT MERGE.
 dependency_overrides:
   video_player_android:
-    path: ./packages/video_player_android
+    path: ../cv_video_player_package/packages/video_player_android
   video_player_avfoundation:
-    path: ./packages/video_player_avfoundation
+    path: ../cv_video_player_package/packages/video_player_avfoundation
   video_player_platform_interface:
-    path: ./packages/video_player_platform_interface
+    path: ../cv_video_player_package/packages/video_player_platform_interface
   video_player_web:
-    path: ./packages/video_player_web
+    path: ../cv_video_player_package/packages/video_player_web

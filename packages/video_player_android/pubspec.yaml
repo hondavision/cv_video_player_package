@@ -33,4 +33,4 @@ topics:
 
 dependency_overrides:
   video_player_platform_interface:
-    path: ../video_player_platform_interface
+    path: ../../../cv_video_player_package/packages/video_player_platform_interface
